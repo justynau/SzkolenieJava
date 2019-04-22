@@ -6,7 +6,7 @@ public class cw2 {
     }
 
         public static void zadanie1 () {
-            System.out.println("hello");
+            System.out.println("hellooo");
         }
 
     }
