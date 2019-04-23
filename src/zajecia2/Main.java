@@ -1,3 +1,5 @@
+package zajecia2;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -14,7 +16,9 @@ public class Main {
 //
 //      sout drukowanie
 //        // ctr + alt + l - formatowanie kodu
+        // ctr + alt +o - usuwanie niepotrzebnych importów
 //        shift f10 - start
+        //ctr + alt + s - ustawienia
 //
 //
 //        System.out.println(a);
@@ -30,6 +34,10 @@ public class Main {
     public static void zad1() {
         System.out.println("hello");
     }
+
+
+
+
 
 }
 
