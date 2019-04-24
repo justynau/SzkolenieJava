@@ -28,6 +28,7 @@ public class Main {
 //    float x = (float) 10/3;
 //    double f = (double) 10/3;
 //    System.out.println("Float: " + x + " double: " + f);
+//        Ctrl + Q - opis metody
 //
     }
 
