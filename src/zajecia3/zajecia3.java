@@ -4,6 +4,8 @@ public class zajecia3 {
 
     public static void main(String[] args) {
         zadanie2();
+int x=3;
+        System.out.println(x+"-ty wyraz ciagu Fibonacciego: "+fib(x));
     }
 
 //    public static void zadanie1() {
@@ -51,7 +53,13 @@ public class zajecia3 {
 
 
     }
+public static int fib(int x){
+        if (( x == 1 || x ==2 || x==0))
+        return 1;
+        else
+            return fib(x+1)+fib(x-2);
 
+}
 
 }
 
