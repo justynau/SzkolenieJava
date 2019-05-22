@@ -19,6 +19,8 @@ public class Main {
         // ctr + alt +o - usuwanie niepotrzebnych importów
 //        shift f10 - start
         //ctr + alt + s - ustawienia
+        //        zajrzenie do klasy ctr+klasa
+//        kommentowanie ctr+/
 //
 //
 //        System.out.println(a);
@@ -29,6 +31,7 @@ public class Main {
 //    double f = (double) 10/3;
 //    System.out.println("Float: " + x + " double: " + f);
 //        Ctrl + Q - opis metody
+
 //
     }
 
